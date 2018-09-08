@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/dawod/development/cerenux/cerenux-build/tmp
+SSTATE_DIR /home/dawod/development/sstate-cache
+NATIVELSBSTRING ubuntu-16.04
